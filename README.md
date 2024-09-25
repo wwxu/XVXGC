@@ -1,7 +1,8 @@
 # xvxgc.github.io
 This is the repository for the XMM-SERVS X-ray eXtended Galaxy Cluster (XVXGC) catalog. 
 - The corresponding paper is [arxiv:2406.06701](https://arxiv.org/abs/2406.06701) (to be updated)
-- Images for each source are included in folder ``[image]".
+- [xvxgc.fits] is the XVXGC catalog, corresponding to Tab.B1 in the paper.
+- Images for each source are included in the folder ``[image]".
 
 #### Images of source ``[es_1]" is explained below, as an example. 
 |filename|Meaning|Fig. in paper|
